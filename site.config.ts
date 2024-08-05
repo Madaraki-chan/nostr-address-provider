@@ -1,6 +1,6 @@
 export default {
   // your domain name
-  host: "zaps.lol",
+  host: "yanderefoundation.eu.org",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
@@ -10,7 +10,7 @@ export default {
 
   // your donation LNURL
   donationLNUrl:
-    "LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7JMPVDV9YCC4FVREX",
+    "Say no to donations",
 
   // name of your MongoDB database
   dbName: "users",
