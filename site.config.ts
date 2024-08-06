@@ -1,12 +1,12 @@
 export default {
   // your domain name
-  host: "yanderefoundation.eu.org",
+  host: "Yandere Foundation",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Free nostr addresses.",
+  slogan: "Get something for free with no guarantees. Internet!",
 
   // your donation LNURL
   donationLNUrl:
