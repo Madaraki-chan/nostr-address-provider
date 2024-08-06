@@ -1,6 +1,6 @@
 export default {
   // your domain name
-  host: "Yandere Foundation",
+  host: "yanderefoundation.eu.org",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
