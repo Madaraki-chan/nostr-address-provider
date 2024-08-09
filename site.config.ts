@@ -3,7 +3,7 @@ export default {
   host: "yanderefoundation.eu.org",
 
   // set to true to disable registration site-wide
-  registrationDisabled: true,
+  registrationDisabled: false,
 
   // site slogan
   slogan: "Get something for free with no guarantees. Internet!",
